@@ -1,0 +1,10 @@
+@import "~bootstrap/scss/bootstrap";
+// Core variables and mixins
+@import "variables.scss";
+@import "mixins.scss";
+// Global CSS
+@import "global.scss";
+// Components
+@import "navbar.scss";
+@import "main.scss";
+@import "bootstrap-overrides.scss";
